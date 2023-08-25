@@ -5,11 +5,11 @@ Welcome to my Todo App project!
 This project was developed as part of the "Todo app" challenge on DevChallenges.io. The task was to create a todo list application following the provided designs. I utilized my frontend development skills and experience with the Svelte framework to achieve the challenge objectives.
 
 ## Implemented Features
-- **Add a New Task**:** You can easily add new tasks to your list using the provided input field.
-- **Complete a Task**:** Mark tasks as completed with a simple click to track your progress.
-- Toggle Between All, Active, and Completed**:** Use the filter buttons to view tasks based on their status**:**all**, **active**, or **completed**.
-- **Remove Tasks**:** You have the option to remove individual tasks or all completed tasks under the "Completed" tab.
-- **Local Storage**:** I implemented browser storage to save your tasks even after refreshing the page.
+- **Add a New Task**: You can easily add new tasks to your list using the provided input field.
+- **Complete a Task**: Mark tasks as completed with a simple click to track your progress.
+- Toggle Between **All**, **Active**, and **Completed**: Use the filter buttons to view tasks based on their status :**all**, **active**, or **completed**.
+- **Remove Tasks**: You have the option to remove individual tasks or all completed tasks under the "Completed" tab.
+- **Local Storage**: I implemented browser storage to save your tasks even after refreshing the page.
 
 
 
