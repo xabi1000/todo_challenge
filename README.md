@@ -1,60 +1,54 @@
-#  Aplicación de Tareas (Todo App)
+# Todo App
+Welcome to my Todo App project!
 
-¡Bienvenido a mi proyecto de la aplicación de tareas (Todo App)!
+## Description
+This project was developed as part of the "Todo app" challenge on DevChallenges.io. The task was to create a todo list application following the provided designs. I utilized my frontend development skills and experience with the Svelte framework to achieve the challenge objectives.
 
-## Descripción
+## Implemented Features
+- **Add a New Task**:** You can easily add new tasks to your list using the provided input field.
+- **Complete a Task**:** Mark tasks as completed with a simple click to track your progress.
+- Toggle Between All, Active, and Completed**:** Use the filter buttons to view tasks based on their status**:**all**, **active**, or **completed**.
+- **Remove Tasks**:** You have the option to remove individual tasks or all completed tasks under the "Completed" tab.
+- **Local Storage**:** I implemented browser storage to save your tasks even after refreshing the page.
 
-Este proyecto fue desarrollado como parte del desafío "Todo app" en DevChallenges.io. La tarea consistía en crear una aplicación de lista de tareas siguiendo los diseños proporcionados. Utilicé mis habilidades en desarrollo frontend y mi experiencia con el framework Svelte para lograr los objetivos del desafío.
 
-## Funcionalidades Implementadas
 
-- **Agregar una Nueva Tarea:** Puedes agregar nuevas tareas a tu lista fácilmente utilizando el campo de entrada provisto.
+## Customizations
 
-- **Completar una Tarea:** Marca las tareas como completadas con un simple clic para realizar un seguimiento de tu progreso.
+In addition to meeting the challenge requirements, I added some customizations to enhance the user experience:
 
-- **Alternar entre Todos, Activos y Completados:** Utiliza los botones de filtro para ver las tareas según su estado: todas, activas o completadas.
+- **Smooth Transitions**: Implemented smooth transitions to improve interaction and aesthetics.
+- **Custom Icons**: Used Tabler icons to enhance the visual appearance of the application.
+- **Custom Styles**: Made color and style changes to add a personal touch to the application.
 
-- **Eliminar Tareas:** Tienes la opción de eliminar tareas individuales o todas las tareas completadas bajo la pestaña de "Completadas".
-
-- **Almacenamiento Local:** Implementé el almacenamiento en el navegador para guardar tus tareas incluso después de refrescar la página.
-
-## Personalizaciones
-
-Además de cumplir con los requisitos del desafío, agregué algunas personalizaciones para mejorar la experiencia del usuario:
-
-- **Transiciones Suaves:** Implementé transiciones suaves para mejorar la interacción y la estética.
-
-- **Iconos Personalizados:** Utilicé iconos de Material Design para mejorar la apariencia visual de la aplicación.
-
-- **Estilos Personalizados:** Cambié algunos colores y estilos para darle un toque personal a la aplicación.
-
-## Tecnologías Utilizadas
+## Technologies Used
 
 - HTML
 - CSS (con Tailwind)
+- Flowbite Library
 - JavaScript (Svelte Framework)
 
-## Capturas de Pantalla
+## Screenshots
 
-¡Aquí hay algunas capturas de pantalla de la aplicación en acción!
+¡Here are some screenshots of the application in action!
 
-![Captura de Pantalla 1](/src/assets/one.png)
-![Captura de Pantalla 2](/src/assets/two.png)
+![Screenshots 1](/src/assets/one.png)
+![Screenshots 2](/src/assets/two.png)
 
-## Enlaces
+## Links
 
-- **Repositorio GitHub:** [Enlace al Repositorio](https://github.com/xabi1000/todo_challenge)
-- **Aplicación en Vivo:** [Enlace a la Aplicación](enlace_a_la_aplicacion)
+- **GitHub Repository:** [Repository Link](https://github.com/xabi1000/todo_challenge)
+- **Live Application:** [App Link](https://todo-challenge-io.netlify.app/)
 
-## Agradecimientos
+## Acknowledgments
 
-Quiero agradecer a DevChallenges.io por proporcionar este emocionante desafío que me permitió aplicar mis habilidades de desarrollo frontend y mejorar mis conocimientos en el framework Svelte. Espero que disfruten usando esta aplicación tanto como yo disfruté creándola.
+I would like to thank DevChallenges.io for providing this exciting challenge that allowed me to apply my frontend development skills and enhance my knowledge of the Svelte framework. I hope you enjoy using this application as much as I enjoyed creating it.
 
-¡Gracias por revisar mi proyecto!
+Thank you for reviewing my project!
 
-Atentamente,
+Sincerely,
 [XaviCode]
 
 ---
 
-*Nota: Esta es una descripción general concisa de mi proyecto. Para obtener más detalles sobre el código y la implementación, te invito a explorar el repositorio en GitHub.*
+*Note: This is a concise overview of my project. For more details about the code and implementation, I invite you to explore the GitHub repository.*
