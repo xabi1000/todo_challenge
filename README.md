@@ -38,8 +38,8 @@ Además de cumplir con los requisitos del desafío, agregué algunas personaliza
 
 ¡Aquí hay algunas capturas de pantalla de la aplicación en acción!
 
-![Captura de Pantalla 1](/one.png)
-![Captura de Pantalla 2](/two.png)
+![Captura de Pantalla 1](/src/assets/one.png)
+![Captura de Pantalla 2](/src/assets/two.png)
 
 ## Enlaces
 
